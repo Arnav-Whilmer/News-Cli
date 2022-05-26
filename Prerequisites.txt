@@ -1,0 +1,15 @@
+Prerequisites:
+	
+	1> Python
+	2> requests
+	3> bs4
+
+
+To install:
+	
+	Python :
+				visit -	 https://www.python.org/
+	requests : 
+				run this cmd in terminal	-	pip install requests
+	bs4 : 
+				run this cmd in terminal -	pip install bs4
